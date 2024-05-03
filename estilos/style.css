@@ -30,5 +30,15 @@ main{
 
     height:627px;
     width:420px;
-    background: url("../imagems/iphone p.png") no-repeat;
+    background: url("../imagems/iphone p.png" ) no-repeat;
+    
+} 
+
+iframe#tela{
+    position: relative;
+    top: 36px;
+    left: 70px;
+    width: 263px;
+    height: 568px;
+    border-radius:30px;
 }
